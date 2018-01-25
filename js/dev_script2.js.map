@@ -1,0 +1,1 @@
+{"version":3,"sources":["script2.js"],"names":["x","y","console","log"],"mappings":";;AAAA,IAAMA,IAAI,SAAJA,CAAI,CAAUC,CAAV,EAAY;AAClBC,YAAQC,GAAR,CAAYF,CAAZ;AACH,CAFD","file":"dev_script2.js","sourcesContent":["const x = function (y){\n    console.log(y);\n};"]}

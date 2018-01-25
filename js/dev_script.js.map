@@ -1,0 +1,1 @@
+{"version":3,"sources":["script.js"],"names":["document","addEventListener","event","x"],"mappings":";;AAAAA,SAASC,gBAAT,CAA0B,kBAA1B,EAA8C,UAASC,KAAT,EAAgB;AAC1DC,MAAE,6BAAF;AACH,CAFD","file":"dev_script.js","sourcesContent":["document.addEventListener(\"DOMContentLoaded\", function(event) {\n    x(\"DOM fully loaded and parsed\");\n});"]}
